@@ -13,3 +13,5 @@
 <p align="center">
   <img src="https://github.com/alsepir/react-native/raw/master/image/description.jpg" width="500" height="auto" />
 </p>
+
+##### Файл .apk: ./apk/app-release.apk

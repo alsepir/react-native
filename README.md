@@ -2,6 +2,14 @@
 
 ### Приложение в 3 рабочих окна:
 
-<img src="https://github.com/alsepir/react-native/raw/master/image/home.jpg" width="500" height="auto" />
-<img src="https://github.com/alsepir/react-native/raw/master/image/menu.jpg" width="500" height="auto" />
-<img src="https://github.com/alsepir/react-native/raw/master/image/description.jpg" width="500" height="auto" />
+<p align="center">
+  <img src="https://github.com/alsepir/react-native/raw/master/image/home.jpg" width="500" height="auto" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/alsepir/react-native/raw/master/image/menu.jpg" width="500" height="auto" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/alsepir/react-native/raw/master/image/description.jpg" width="500" height="auto" />
+</p>
